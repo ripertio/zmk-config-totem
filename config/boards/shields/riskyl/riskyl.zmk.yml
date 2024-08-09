@@ -1,6 +1,6 @@
 file_format: "1"
-id: corne
-name: Corne
+id: RiSkyl
+name: RiSkyl
 type: shield
 url: https://github.com/foostan/crkbd/
 requires: [pro_micro]
@@ -10,5 +10,5 @@ features:
   - display
   - underglow
 siblings:
-  - corne_left
-  - corne_right
+  - riskyl_left
+  - riskyl_right

@@ -1,8 +1,5 @@
 include:
   - board: nice_nano_v2
-    shield: corne_left
+    shield: riskyl_left
   - board: nice_nano_v2
-    shield: corne_right
-  - board: nice_nano_v2
-    shiel: settings_reset
-# there is no settingsreset (needed) for the XIAO
+    shield: riskyl_right
